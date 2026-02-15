@@ -8,3 +8,5 @@ langgraph
 youtube-search-python
 youtube-search
 wikipedia
+langchain-tavily
+ddgs
