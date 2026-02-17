@@ -10,3 +10,5 @@ youtube-search
 wikipedia
 langchain-tavily
 ddgs
+youtube-search-python
+youtube-search
